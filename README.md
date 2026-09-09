@@ -111,3 +111,5 @@ and predicts:
 
 ```text
 Diabetic
+or
+Non-Diabetic
